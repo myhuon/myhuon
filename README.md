@@ -1,10 +1,47 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90" align="center"/>
+</div>
+  
 <h2 align="center">📈Tech Stack</h2>
-</br>
+<h3 align="center">🌱Studying🌱</h3>
+<div align="center">
+  <img alt="Spring boot" src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=black"/> 
+  <img alt="Apache Hadoop" src="https://img.shields.io/badge/ApacheHadoop-66CCFF.svg?&style=for-the-badge&logo=ApacheHadoop&logoColor=black"/> 
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white"/>
+</div></br>
 
-<h3>💻Used as the main💻</h3>
-<img src="https://img.shields.io/badge/#007396?style=for-the-badge&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Java</title><path d="M8.851 18.56s-.917.534.653.714c1.902.218 2.874.187 4.969-.211 0 0 .552.346 1.321.646-4.699 2.013-10.633-.118-6.943-1.149M8.276 15.933s-1.028.761.542.924c2.032.209 3.636.227 6.413-.308 0 0 .384.389.987.602-5.679 1.661-12.007.13-7.942-1.218M13.116 11.475c1.158 1.333-.304 2.533-.304 2.533s2.939-1.518 1.589-3.418c-1.261-1.772-2.228-2.652 3.007-5.688 0-.001-8.216 2.051-4.292 6.573M19.33 20.504s.679.559-.747.991c-2.712.822-11.288 1.069-13.669.033-.856-.373.75-.89 1.254-.998.527-.114.828-.093.828-.093-.953-.671-6.156 1.317-2.643 1.887 9.58 1.553 17.462-.7 14.977-1.82M9.292 13.21s-4.362 1.036-1.544 1.412c1.189.159 3.561.123 5.77-.062 1.806-.152 3.618-.477 3.618-.477s-.637.272-1.098.587c-4.429 1.165-12.986.623-10.522-.568 2.082-1.006 3.776-.892 3.776-.892M17.116 17.584c4.503-2.34 2.421-4.589.968-4.285-.355.074-.515.138-.515.138s.132-.207.385-.297c2.875-1.011 5.086 2.981-.928 4.562 0-.001.07-.062.09-.118M14.401 0s2.494 2.494-2.365 6.33c-3.896 3.077-.888 4.832-.001 6.836-2.274-2.053-3.943-3.858-2.824-5.539 1.644-2.469 6.197-3.665 5.19-7.627M9.734 23.924c4.322.277 10.959-.153 11.116-2.198 0 0-.302.775-3.572 1.391-3.688.694-8.239.613-10.937.168 0-.001.553.457 3.393.639"/></svg>java.svg&logoColor=black">
+<h3 align="center">💻Used as the main💻</h3>
+<div align="center">
+  <img alt="Java" src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=Java&logoColor=black"/> 
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=black"/> 
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=black"/> 
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
+</div></br>
 
-<h3>💻Used at least once💻</h3>
+<h3 align="center">💻Used at least once💻</h3>
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=black"/> 
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> 
+  <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" style="display:inline"/> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/>
+  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?&style=for-the-badge&logo=Salesforce&logoColor=white"/>
+</div></br></br>
 
+
+<h2 align="center">📈Tools</h2>
+<div align="center">
+     <img alt="Eclipse" src="https://img.shields.io/badge/EclipseIDE-2C2255.svg?&style=for-the-badge&logo=EclipseIDE&logoColor=white"/> 
+     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+     <img alt="VMware" src="https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=VMware&logoColor=white"/>
+</div align="center"></br></br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myhuon" />&nbsp&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=myhuon" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" align="center"/>
+</div>
