@@ -37,7 +37,7 @@
 </div align="center"></br></br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myhuon&langs_count=8&layout=compact&card_width=40" />&nbsp&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myhuon&langs_count=8&layout=compact&card_width=50" />&nbsp&nbsp
   <img src="https://github-readme-stats.vercel.app/api?username=myhuon&show_icons=true&theme=panda" />
 </div>
 
