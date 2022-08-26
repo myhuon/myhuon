@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20&fontSize=70&fontColor=ffffff" align="center"/>
 </div>
   
-<h2 align="center">📈Tech Stack</h2>
-<h3 align="center">🌱Studying🌱</h3>
+<h2 align="center">Tech Stack</h2>
+<h3 align="center">🌱Studying</h3>
 <div align="center">
   <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?&style=for-the-badge&logo=Salesforce&logoColor=white"/>
 </div></br>
 
-<h3 align="center">💻Used as the main💻</h3>
+<h3 align="center">💻Used as the main</h3>
 <div align="center">
   <img alt="Java" src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=Java&logoColor=black"/> 
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=black"/> 
@@ -16,7 +16,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
 </div></br>
 
-<h3 align="center">💻Used at least once💻</h3>
+<h3 align="center">💻Used at least once</h3>
 <div align="center">
   <img alt="Spring boot" src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=black"/> 
   <img alt="Apache Hadoop" src="https://img.shields.io/badge/ApacheHadoop-66CCFF.svg?&style=for-the-badge&logo=ApacheHadoop&logoColor=black"/> 
@@ -28,7 +28,7 @@
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/>
 </div></br>
 
-<h2 align="center">📈Tools</h2>
+<h2 align="center">Tools</h2>
 <div align="center">
      <img alt="Eclipse" src="https://img.shields.io/badge/EclipseIDE-2C2255.svg?&style=for-the-badge&logo=EclipseIDE&logoColor=white"/> 
      <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
