@@ -5,9 +5,7 @@
 <h2 align="center">📈Tech Stack</h2>
 <h3 align="center">🌱Studying🌱</h3>
 <div align="center">
-  <img alt="Spring boot" src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=black"/> 
-  <img alt="Apache Hadoop" src="https://img.shields.io/badge/ApacheHadoop-66CCFF.svg?&style=for-the-badge&logo=ApacheHadoop&logoColor=black"/> 
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white"/>
+  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?&style=for-the-badge&logo=Salesforce&logoColor=white"/>
 </div></br>
 
 <h3 align="center">💻Used as the main💻</h3>
@@ -20,12 +18,14 @@
 
 <h3 align="center">💻Used at least once💻</h3>
 <div align="center">
+  <img alt="Spring boot" src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=black"/> 
+  <img alt="Apache Hadoop" src="https://img.shields.io/badge/ApacheHadoop-66CCFF.svg?&style=for-the-badge&logo=ApacheHadoop&logoColor=black"/> 
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=black"/> 
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> 
   <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" style="display:inline"/> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/>
-  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?&style=for-the-badge&logo=Salesforce&logoColor=white"/>
 </div></br></br>
 
 
