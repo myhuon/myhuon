@@ -16,7 +16,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
 </div></br>
 
-<h3 align="center">💻Used at least once</h3>
+<h3 align="center">💻Able to do</h3>
 <div align="center">
   <img alt="Apache Hadoop" src="https://img.shields.io/badge/ApacheHadoop-66CCFF.svg?&style=for-the-badge&logo=ApacheHadoop&logoColor=black"/> 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=black"/>
