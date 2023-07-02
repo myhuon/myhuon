@@ -5,6 +5,7 @@
 <h2 align="center">Tech Stack</h2>
 <h3 align="center">🌱Studying</h3>
 <div align="center">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?&style=for-the-badge&logo=Salesforce&logoColor=white"/>
 </div></br>
 
